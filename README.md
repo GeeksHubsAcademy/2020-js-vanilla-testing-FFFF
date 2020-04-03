@@ -11,5 +11,6 @@
 * [Testeando String.prototypes](https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-002)
 * [Testeando Number.prototype](https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-003)
 
-
-
+<p align="right">
+    <a href="https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-000">Siguiente >></a>
+</p>
