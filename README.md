@@ -11,8 +11,6 @@
 * [Testeando String.prototypes](https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-002)
 * [Testeando Number.prototype](https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-003)
 * [Testing automatizado con Travis-CI - Parte I](https://github.com/GeeksHubsAcademy/2020-js-vanilla-testing-004)
-* Testing automatizado con Travis-CI - Parte II
-* Testing automatizado con Actions
 
 ## Assets
 
