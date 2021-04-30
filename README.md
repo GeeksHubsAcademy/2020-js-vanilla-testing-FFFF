@@ -1,7 +1,7 @@
 # 2020-js-vanilla-testing-FFFF
 
 <p align="center">
-    <img src="https://github.com/GeeksHubsAcademy/hello-world/blob/master/assets/media/logo/logo.png" >	
+    <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.png" >	
 </p>
 
 ## Temario
